@@ -14,7 +14,7 @@
     - Trailer in BG
     - Title & Description
     - MoviesSugggestion
-      -MovieLists
+      -MovieLists \* N
 - NeflixGPT
   - SearchBar
   - Movie Suggestion
